@@ -1,17 +1,18 @@
 {
   "pages": {
     "36d95c29-2b0e-81db-8a91-e94399115d56": "2026-05-27T09:17:00.000Z",
-    "36d95c29-2b0e-8189-a87f-c07c1aa97b36": "2026-05-27T09:17:00.000Z"
+    "36d95c29-2b0e-8189-a87f-c07c1aa97b36": "2026-05-27T09:17:00.000Z",
+    "36d95c29-2b0e-8174-8c3c-e50ad2be516a": "2026-05-27T09:17:00.000Z"
   },
   "build_stats": {
     "last_run": {
-      "ts": "2026-05-27T11:30:56.735Z",
-      "run_id": "26508504413",
-      "pages_total": 2,
-      "pages_built": 2,
-      "pages_skipped": 0,
+      "ts": "2026-05-27T11:31:44.453Z",
+      "run_id": "26508543837",
+      "pages_total": 3,
+      "pages_built": 1,
+      "pages_skipped": 2,
       "pages_failed": 0,
-      "writeback_success": 2,
+      "writeback_success": 1,
       "writeback_failed": 0,
       "notion_429_count": 0,
       "max_retry_after_seen": 0,
